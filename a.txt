@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 hello this is conflict test
+=======
+i am updating this file again and Again just to learn basic action on gut
+>>>>>>> Stashed changes
